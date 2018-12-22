@@ -17,13 +17,28 @@
     </mj-attributes>
   </mj-head>
 
-  <mj-body background-color="#ffffff">
+  <mj-body background-color="#E3E3E3">
 
-    <mj-section>
+    <mj-raw>
+      <!-- logo -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" border-top="5px solid #628FCC" padding="35px 30px 35px 30px">
       <mj-column>
+        <mj-image src="https://i.postimg.cc/wTHbKbLk/logo.png" width="288px" height="49px" alt="Massdrop logo"/>
 
       </mj-column>
     </mj-section>
+
+    <mj-raw>
+      <!-- hero image -->
+    </mj-raw>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/59qjN6QM/hero.jpg" width="1200px" alt="The Sennheiser HD 6XX Headphone"/>
+      </mj-column>
+    </mj-section>
+
+
 
   </mj-body>
 
