@@ -38,7 +38,32 @@
       </mj-column>
     </mj-section>
 
+    <mj-raw>
+      <!-- about -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="20px 20px 35px 20px">
+      <mj-column>
+        <mj-text font-family="Oxygen" align="center">
+          <h1 style="font-size:25px;">One of Our All-Time Best Sellers</h1>
+          <p style="font-size:14px; line-height:25px;">If you know audio gear, you know the Sennheiser HD 650. The company’s flagship from 2003 to 2009, this open-back headphone has shown serious staying power. Praised for its richly detailed, effortlessly enjoyable sound, it remains one of the most talked-about products on Head-Fi today—and is still widely considered among the best headphones under $1,000. So when we teamed up with Sennheiser on its first-ever community-driven design partnership, the HD 650 was a natural place to start. A new revision of the popular all-rounder, the <span style="font-weight:700;">Massdrop x Sennheiser HD 6XX</span> has that same great sound plus a few updates, and a price that makes it even easier to love.</p>
+        </mj-text>
+        <mj-button href="https://www.massdrop.com/buy/massdrop-sennheiser-hd6xx" background-color="#2A2A2A" text-transform="uppercase" padding="20px 0px 0px 0px">Join Drop</mj-button>
+      </mj-column>
+    </mj-section>
 
+    <mj-raw>
+      <!-- images of product -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 20px 35px 20px">
+      <mj-group>
+        <mj-column>
+          <mj-image src="https://i.postimg.cc/9MYt44hs/product1.jpg" alt="woman wearing the Sennheiser HD6xx headphone" width="473px" padding="0px 5px 0px 0px" />
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://i.postimg.cc/nzJGc46v/product2.jpg" alt="the Sennheiser HD6xx headphone hanging on the bag" width="473px" padding="0px 0px 0px 5px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
 
   </mj-body>
 
