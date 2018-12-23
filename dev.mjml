@@ -9,7 +9,7 @@
     <mj-preview>The Sennheiser HD 6XX Headphones are now available on Massdrop and we would like you to have one.</mj-preview>
 
     <!-- This tag allows you to import fonts if used in your MJML document -->
-    <mj-font name="Oxygen" href="https://fonts.googleapis.com/css?family=Oxygen:300,400,700" />
+    <mj-font name='Montserrat' href="https://fonts.googleapis.com/css?family=Montserrat:400,700" />
 
     <!-- This tag allows you to modify default attributes on a mj-tag and add mj-class to them. -->
     <mj-attributes>
@@ -24,8 +24,7 @@
     </mj-raw>
     <mj-section background-color="#ffffff" border-top="5px solid #628FCC" padding="35px 30px 35px 30px">
       <mj-column>
-        <mj-image src="https://i.postimg.cc/wTHbKbLk/logo.png" width="288px" height="49px" alt="Massdrop logo"/>
-
+        <mj-image src="https://i.postimg.cc/wTHbKbLk/logo.png" href="https://www.massdrop.com/" width="288px" height="49px" alt="Massdrop logo"/>
       </mj-column>
     </mj-section>
 
@@ -43,18 +42,18 @@
     </mj-raw>
     <mj-section background-color="#ffffff" padding="20px 20px 35px 20px">
       <mj-column>
-        <mj-text font-family="Oxygen" align="center">
+        <mj-text font-family="'Montserrat', sans-serif"  align="center">
           <h1 style="font-size:25px;">One of Our All-Time Best Sellers</h1>
-          <p style="font-size:14px; line-height:25px;">If you know audio gear, you know the Sennheiser HD 650. The company’s flagship from 2003 to 2009, this open-back headphone has shown serious staying power. Praised for its richly detailed, effortlessly enjoyable sound, it remains one of the most talked-about products on Head-Fi today—and is still widely considered among the best headphones under $1,000. So when we teamed up with Sennheiser on its first-ever community-driven design partnership, the HD 650 was a natural place to start. A new revision of the popular all-rounder, the <span style="font-weight:700;">Massdrop x Sennheiser HD 6XX</span> has that same great sound plus a few updates, and a price that makes it even easier to love.</p>
+          <p style="font-size:14px; line-height:30px;">If you know audio gear, you know the Sennheiser HD 650. The company’s flagship from 2003 to 2009, this open-back headphone has shown serious staying power. Praised for its richly detailed, effortlessly enjoyable sound, it remains one of the most talked-about products on Head-Fi today—and is still widely considered among the best headphones under $1,000. So when we teamed up with Sennheiser on its first-ever community-driven design partnership, the HD 650 was a natural place to start. A new revision of the popular all-rounder, the <span style="font-weight:700;">Massdrop x Sennheiser HD 6XX</span> has that same great sound plus a few updates, and a price that makes it even easier to love.</p>
         </mj-text>
-        <mj-button href="https://www.massdrop.com/buy/massdrop-sennheiser-hd6xx" background-color="#2A2A2A" text-transform="uppercase" padding="20px 0px 0px 0px">Join Drop</mj-button>
+        <mj-button href="https://www.massdrop.com/buy/massdrop-sennheiser-hd6xx" background-color="#2A2A2A" text-transform="uppercase" padding="10px 0px 0px 0px">Join Drop</mj-button>
       </mj-column>
     </mj-section>
 
     <mj-raw>
       <!-- images of product -->
     </mj-raw>
-    <mj-section background-color="#ffffff" padding="0px 20px 35px 20px">
+    <mj-section background-color="#ffffff" padding="0px 20px 50px 20px">
       <mj-group>
         <mj-column>
           <mj-image src="https://i.postimg.cc/9MYt44hs/product1.jpg" alt="woman wearing the Sennheiser HD6xx headphone" width="473px" padding="0px 5px 0px 0px" />
@@ -63,6 +62,75 @@
           <mj-image src="https://i.postimg.cc/nzJGc46v/product2.jpg" alt="the Sennheiser HD6xx headphone hanging on the bag" width="473px" padding="0px 0px 0px 5px" />
         </mj-column>
       </mj-group>
+    </mj-section>
+
+    <mj-raw>
+      <!-- line -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 20px 15px 20px">
+      <mj-column border-bottom="1px solid #D1D1D1"></mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- stay connected -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 20px 0px 20px">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-text font-family="'Montserrat', sans-serif" align="left">
+            <h2>Stay Connected:</h2>
+          </mj-text>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" align="right">
+            <mj-social-element href="#" src="https://i.postimg.cc/9FmRX8zm/facebook.png" padding="0px 12px 0 12px"></mj-social-element>
+            <mj-social-element href="#" src="https://i.postimg.cc/7YKC53Tg/instagram.png" padding="0px 12px 0 12px"></mj-social-element>
+            <mj-social-element href="#" src="https://i.postimg.cc/bYHShcyV/twitter.png" padding="0px 12px 0 12px"></mj-social-element>
+          </mj-social>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-raw>
+      <!-- You are receiving this email because ... -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 20px 0px 20px">
+      <mj-column>
+        <mj-text font-family="'Montserrat', sans-serif" line-height="22px">
+          <p>You are receiving this email because you are a member of Massdrop. Questions or some comments? Visit our <a href="https://helpdesk.massdrop.com/hc/en-us" style="color:#626262">Help Center</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- Manage your email preferences or unsubscribe. -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 20px 0px 20px">
+      <mj-column>
+        <mj-text font-family="'Montserrat', sans-serif">
+          <p>Manage your <a href="https://helpdesk.massdrop.com/hc/en-us" style="color:#626262">email preferences</a> or <a href="https://helpdesk.massdrop.com/hc/en-us" style="color:#626262">unsubscribe</a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- address -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="0px 20px 0px 20px">
+      <mj-column>
+        <mj-text font-family="'Montserrat', sans-serif">
+          <p>655 Montgomery St. Suite 800, San Francisco, CA 94111</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- footer logo -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" border-bottom="5px solid #628FCC" padding="15px 20px 15px 20px">
+      <mj-column>
+        <mj-image src="https://i.postimg.cc/02w3Qf44/massdrop.png" href="https://www.massdrop.com/" alt="Massdrop logo" width="100px" align="left"/>
+      </mj-column>
     </mj-section>
 
   </mj-body>
