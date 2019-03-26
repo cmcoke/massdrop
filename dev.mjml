@@ -127,9 +127,27 @@
     <mj-raw>
       <!-- footer logo -->
     </mj-raw>
-    <mj-section background-color="#ffffff" border-bottom="5px solid #628FCC" padding="15px 20px 15px 20px">
+    <mj-section background-color="#ffffff"  padding="15px 20px 15px 20px">
       <mj-column>
         <mj-image src="https://i.postimg.cc/02w3Qf44/massdrop.png" href="https://www.massdrop.com/" alt="Massdrop logo" width="100px" align="left"/>
+      </mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- line -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding="30px 20px 0px 20px">
+      <mj-column border-bottom="1px solid #D1D1D1"></mj-column>
+    </mj-section>
+
+    <mj-raw>
+      <!-- personal note -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" border-bottom="5px solid #628FCC" padding="10px 20px 0px 20px">
+      <mj-column>
+        <mj-text font-family="'Montserrat', sans-serif" font-size="12px" line-height="19px" align="center">
+           <p>To Whom It May Concern, this email is a personal project of mine and not that of Massdrop.</p>
+        </mj-text>
       </mj-column>
     </mj-section>
 
