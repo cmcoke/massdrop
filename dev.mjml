@@ -146,7 +146,7 @@
     <mj-section background-color="#ffffff" border-bottom="5px solid #628FCC" padding="10px 20px 0px 20px">
       <mj-column>
         <mj-text font-family="'Montserrat', sans-serif" font-size="12px" line-height="19px" align="center">
-           <p>To Whom It May Concern, this email is a personal project of mine and not that of Massdrop.</p>
+          <p>Please note that this email is a personal project of mine and not that of MassDrop.</p>
         </mj-text>
       </mj-column>
     </mj-section>
